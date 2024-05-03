@@ -1,0 +1,170 @@
+h1{
+   
+    font-family: cursive;
+    font-size: 70px;
+    position: absolute;
+   margin-left: 500px;
+   margin-top: 180px;
+   font-weight: 50px;
+   color:darkred;
+
+}
+.nav{
+    font-size: 30px;
+    font-family: cursive;
+     
+}
+
+.text2 h3{
+   font-family: inherit;
+    font-size: 60px;
+    position: absolute;
+   font-weight: 10px;
+   color:darkgreen;
+}
+.col-md-12 h2{
+    position: absolute;
+    color: darkred;
+    font-family: "Times New Roman", Times, serif;
+    margin-top: 100px;
+    margin-left: 190px;
+    font-size: 90px;
+}
+.col-md-12 p{
+    position: absolute;
+    color: darkred;
+    font-family:cursive;
+    margin-top: 250px;
+    margin-left: 140px;
+    font-size: 20px;
+}
+h2{
+    font-size: 50px;
+    color: darkred;
+    font-family: cursive;
+   text-align: center;
+}
+.box{
+    height:500px ;
+    width:500px ;
+    border: 2px solid #fff;
+    background-color: red;
+    margin-top: 15px;
+    
+}
+.box h4{
+    text-align: center;
+    color:darkred;
+    font-family: initial;
+    font-size: 40px;
+    font-weight: 10px;
+}
+.box p{
+    color: #fff;
+    font-size: 26px;
+    font-family: serif;
+
+}
+.box2{
+    height:400px ;
+    width:400px ;
+    border: 2px solid white;
+    margin-left: 100px;
+     
+   
+}
+.mainbox{
+    display: flex;
+    justify-content: center;
+    border: 2px solid #fff;
+}
+ h5{
+    font-size: 80px;
+    color: green;
+    margin-top: 25px;
+    text-align: center;
+
+}
+.img-thumbnail{
+    border: 1px solid #fff;
+}
+h6{
+    font-size: 40px;
+    color: darkred;
+    text-align: center;
+}
+.mainbox2{
+    position: absolute;
+    display: flex;
+    justify-content: center ;
+    
+    margin-top: 50px;
+    
+}
+
+
+
+.main1{
+    
+    border: 1px solid transparent;
+    height: 300PX;
+    width: 400PX;
+    margin-left: 30px;
+}
+.main2{
+  
+    border: 1px solid transparent;
+    height: 300PX;
+    width: 400PX;
+}
+.main3{
+   
+    border: 1px solid transparent;
+  height: 300PX;
+    width: 400PX;
+  
+}
+.main4{
+
+    border: 1px solid transparent;
+    height: 300PX;
+    width: 300PX;
+}
+.main2 li{
+    font-size: 25px;
+    color: green;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+.main2 p{
+    position: absolute;
+    font-size: 20px;
+    color: darkred;
+    margin-left: 70px;
+    margin-top: 0px;
+}
+
+.main3 li{
+    font-size: 25px;
+    color: green;
+    margin-left: 50px;
+    margin-top: 20px;
+    margin-bottom: 15px;
+
+}
+.main3 p{
+    position: absolute;
+    font-size: 20px;
+    color: darkred;
+    margin-left: 70px;
+    margin-top:0px;
+}
+.fruit{
+    font-size: 70PX;
+    color: darkred;
+}
+.Login{
+   font-size: 30px;
+   color: darkred;
+}
